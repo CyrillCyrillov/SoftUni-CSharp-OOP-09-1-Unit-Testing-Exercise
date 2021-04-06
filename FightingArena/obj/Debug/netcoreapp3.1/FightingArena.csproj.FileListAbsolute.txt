@@ -1,9 +1,0 @@
-C:\Users\Kiril\OOP_CSharp\09_CSharp-OOP-Unit-Testing-Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
-C:\Users\Kiril\OOP_CSharp\09_CSharp-OOP-Unit-Testing-Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
-C:\Users\Kiril\OOP_CSharp\09_CSharp-OOP-Unit-Testing-Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
-C:\Users\Kiril\OOP_CSharp\09_CSharp-OOP-Unit-Testing-Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csprojAssemblyReference.cache
-C:\Users\Kiril\OOP_CSharp\09_CSharp-OOP-Unit-Testing-Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
-C:\Users\Kiril\OOP_CSharp\09_CSharp-OOP-Unit-Testing-Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
-C:\Users\Kiril\OOP_CSharp\09_CSharp-OOP-Unit-Testing-Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
-C:\Users\Kiril\OOP_CSharp\09_CSharp-OOP-Unit-Testing-Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
-C:\Users\Kiril\OOP_CSharp\09_CSharp-OOP-Unit-Testing-Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
